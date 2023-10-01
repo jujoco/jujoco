@@ -44,7 +44,6 @@ Backend
 ![Node.JS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.JS](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 
 Cloud Providers
@@ -105,5 +104,3 @@ Web Hosting
 <a href="https://www.jujoco.com/" target="_blank"><img alt="" src="https://img.shields.io/badge/Portfolio-000?logo=vercel&logoColor=white&style=for-the-badge" style="vertical-align:center" /></a>
 <a href="https://www.linkedin.com/in/jujoco/" target="_blank"><img alt="" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white" style="vertical-align:center" /></a>
 <a href="https://www.instagram.com/jujoco.tech/" target="_blank"><img alt="" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white" style="vertical-align:center" /></a></p>
-
-[![Profile View](https://visitcount.itsvg.in/api?id=jujoco&label=Profile%20Views&color=3&icon=0&pretty=true)](https://visitcount.itsvg.in)
