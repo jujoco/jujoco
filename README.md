@@ -1,7 +1,7 @@
 
 ## Hi there 👋 — I’m Julian.
 
-Full Stack Software Engineer with 5 years of experience in building web applications. Proficient in the JavaScript ecosystem, including React, and Node.JS, and skilled in responsive design and ensuring high-quality deliverables through effective testing.
+A web developer experienced in building client-facing unique web experiences. Proficient in the JavaScript ecosystem, including React, and Node.JS, and skilled in responsive design and ensuring high-quality deliverables through effective testing.
 
 - ✨ I’m currently working on different projects
 
